@@ -1,0 +1,12 @@
+PassengerId,Survived
+PassengerId,0
+Pclass,0
+Name,0
+Sex,0
+Age,1
+SibSp,0
+Parch,1
+Ticket,0
+Fare,1
+Cabin,0
+Embarked,0
